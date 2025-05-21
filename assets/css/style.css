@@ -78,8 +78,7 @@ canvas {
 
 .letter {
     position: absolute;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 14rem;
+    font-size: 11rem;
     font-weight: bold;
     color: #f40c3f;
     z-index: 2;
